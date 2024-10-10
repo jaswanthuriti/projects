@@ -1,0 +1,25 @@
+# Conference Management System (CMS)
+
+A comprehensive web-based platform for streamlining academic conference management.
+
+## Key Features
+- User management with role-based access
+- Paper submission and review process
+- Admin and Super Admin controls
+- Payment integration
+- Reporting and analytics
+
+## Tech Stack
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Java Servlets, JSP
+- Database: MySQL
+
+## Architecture
+Multi-tier system with presentation, application, data access, and database layers.
+
+## Security
+Implements password hashing, input validation, session management, and HTTPS.
+
+## Development
+- IDE: NetBeans 8.1
+- Database Tool: MySQL Workbench
