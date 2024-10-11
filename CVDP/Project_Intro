@@ -1,0 +1,23 @@
+# Cardiovascular Disease Prediction using Machine Learning
+
+A comprehensive web-based system for predicting cardiovascular disease risk using advanced machine learning techniques.
+
+## Key Features
+- Data preprocessing and feature engineering
+- Implementation of multiple ML algorithms (Random Forest, Decision Tree, Logistic Regression, SVM)
+- Model performance evaluation and comparison
+- Feature importance analysis using LIME
+- Web interface for user input and risk prediction
+
+## Tech Stack
+- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Flask for web framework
+- HTML/CSS for frontend
+
+## Highlights
+- Achieved 94% accuracy with Random Forest algorithm
+- Implements feature selection for improved model performance
+- Provides interpretable results with risk percentage and contributing factors
+
+
+This project aims to assist in early detection and risk assessment of cardiovascular diseases, potentially improving patient outcomes through timely intervention.
